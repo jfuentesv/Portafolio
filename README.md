@@ -22,8 +22,7 @@ There's a lot of different of Data Science Methodology, but here we are going to
 
 ---
 
-
-< #Import the Libraries
+> #Import the Libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np`
