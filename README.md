@@ -13,8 +13,8 @@ Uno de los principales proyectos en Ciencia de Datos es Titanic. Los datos que s
 
 ---
 
-	`import pandas as pd`
-  `import matplotlib.pyplot as plt`
+`import pandas as pd`
+`import matplotlib.pyplot as plt`
 
 
 [Google](https://www.google.com)
