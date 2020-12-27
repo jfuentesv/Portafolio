@@ -18,3 +18,5 @@ Uno de los principales proyectos en Ciencia de Datos es Titanic. Los datos que s
 
 
 [Google](https://www.google.com)
+
+![Titanic](https://c.files.bbci.co.uk/16D1/production/_100814850_gettyimages-877330410.jpg)
