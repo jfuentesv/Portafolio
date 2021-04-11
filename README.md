@@ -8,8 +8,6 @@ Ejemplo de Portafolio de Ciencia de datos
 - Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to reach the best model.
 - Built a client facing API using Flask.
 
-![Titanic](https://c.files.bbci.co.uk/16D1/production/_100814850_gettyimages-877330410.jpg)
-
 This is one of the most important challenges in the plattform Kaggle. It's called Titanic, and you can find the details [here](https://www.kaggle.com/c/titanic)
 
 # Proyecto 2: Data Science Salary Estimator: Project Overview
