@@ -1,30 +1,29 @@
-# Data Science Portfolio
+# Portafolio de Ciencia de Datos
+Ejemplo de Portafolio de Ciencia de datos
 
-
-
-''' import pandas as pd
- import matplotlib.pyplot as plt'''
-
----
+# Proyecto 1: Data Science Salary Estimator: Project Overview
+- Created a tool that estimates data science salaries (MAE - $11k ) to help data scientist negotiate their income when they get a job.
+- Scrapped over 1000 jobs descriptions from glassdor using python and selenium.
+- Engineered features from the text of each job description to quantify the value companies put on python, excel, aws and spark.
+- Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to reach the best model.
+- Built a client facing API using Flask.
 
 ![Titanic](https://c.files.bbci.co.uk/16D1/production/_100814850_gettyimages-877330410.jpg)
 
 This is one of the most important challenges in the plattform Kaggle. It's called Titanic, and you can find the details [here](https://www.kaggle.com/c/titanic)
 
----
+# Proyecto 2: Data Science Salary Estimator: Project Overview
+- Created a tool that estimates data science salaries (MAE - $11k ) to help data scientist negotiate their income when they get a job.
+- Scrapped over 1000 jobs descriptions from glassdor using python and selenium.
+- Engineered features from the text of each job description to quantify the value companies put on python, excel, aws and spark.
+- Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to reach the best model.
+- Built a client facing API using Flask.
 
-There's a lot of different of Data Science Methodology, but here we are going to use the next five steps:
-1. 
-2.
-3.
-4.
-5.
 
----
+# Proyecto 3: Data Science Salary Estimator: Project Overview
+- Created a tool that estimates data science salaries (MAE - $11k ) to help data scientist negotiate their income when they get a job.
+- Scrapped over 1000 jobs descriptions from glassdor using python and selenium.
+- Engineered features from the text of each job description to quantify the value companies put on python, excel, aws and spark.
+- Optimized Linear, Lasso, and Random Forest Regressors using GridSearchCV to reach the best model.
+- Built a client facing API using Flask.
 
-> #Import the Libraries
-> import pandas as pd
-> import matplotlib.pyplot as plt
-> import numpy as np`
->
----
